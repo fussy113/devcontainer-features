@@ -1,0 +1,10 @@
+{
+    "all-test": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "sample": {
+                "text": "Hello!"
+            }
+        }
+    }
+}
